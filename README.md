@@ -1,1 +1,2 @@
-# portfolio-for-assignment
+# newtons
+ creating a portfolio for NSCC
